@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZoLxny1Pmzo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiva\\OneDrive\\Desktop\\Programming Paradigms\\Lab-2\\MyFSharpProject\\MyFSharpProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiva\\.nuget\\packages\\fsharp.core\\8.0.401\\fsharp.core.8.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
